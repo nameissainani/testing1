@@ -3,7 +3,7 @@
 ###############################
 # Core EditorConfig Options   #
 ###############################
-root = true
+root = true1
 
 # All files
 [*]
