@@ -1,7 +1,7 @@
 
 
 
-## [Click here to find out what's new with Bot Framework](https://github.com/microsoft/botframework-sdk/blob/master/README.md)
+saiiiiii
 
 ## Overview
 
