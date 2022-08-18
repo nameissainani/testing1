@@ -1,0 +1,86 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\saina\\Downloads\\BotBuilder-Samples-main (1)\\BotBuilder-Samples-main\\samples\\csharp_dotnetcore\\14.nlp-with-orchestrator\\NLP-With-Orchestrator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\saina\\Downloads\\BotBuilder-Samples-main (1)\\BotBuilder-Samples-main\\samples\\csharp_dotnetcore\\14.nlp-with-orchestrator\\NLP-With-Orchestrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\saina\\Downloads\\BotBuilder-Samples-main (1)\\BotBuilder-Samples-main\\samples\\csharp_dotnetcore\\14.nlp-with-orchestrator\\NLP-With-Orchestrator.csproj",
+        "projectName": "NLP-With-Orchestrator",
+        "projectPath": "C:\\Users\\saina\\Downloads\\BotBuilder-Samples-main (1)\\BotBuilder-Samples-main\\samples\\csharp_dotnetcore\\14.nlp-with-orchestrator\\NLP-With-Orchestrator.csproj",
+        "packagesPath": "C:\\Users\\saina\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saina\\Downloads\\BotBuilder-Samples-main (1)\\BotBuilder-Samples-main\\samples\\csharp_dotnetcore\\14.nlp-with-orchestrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\saina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Bot.Builder.AI.Luis": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Bot.Builder.AI.Orchestrator": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Bot.Builder.AI.QnA": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "Microsoft.Bot.Builder.Integration.AspNet.Core": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
